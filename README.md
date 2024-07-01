@@ -24,7 +24,9 @@ This repository contains automated tests for API validation using RestAssured an
 **File:** App.java  
 **Description:** This test validates weather data for London using RestAssured and TestNG.
 
-
+**Related Schema File:**  
+**File:** wschema.json  
+**Description:** JSON schema for validating weather data response structure.
 
 ```plaintext
 .
