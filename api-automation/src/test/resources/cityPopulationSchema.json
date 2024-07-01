@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "city": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        
+      },
+      "required": ["city", "country", "populationCounts"]
+    }
+  },
+  "required": ["data"]
+}
