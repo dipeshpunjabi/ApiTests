@@ -51,3 +51,4 @@ This repository contains automated tests for API validation using RestAssured an
 │           ├── cityPopulationSchema.json
 │           └── wschema.json
 └── pom.xml
+└── testNG.xml
